@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <a href="../public/publish.zip" download={"donwload"}>
+      <a href="/publish.zip" download={"donwload"}>
         download
       </a>
     </>
